@@ -1,0 +1,31 @@
+body {
+    background:#FBF3E6;
+}
+.section-title {
+    text-align:center;
+    color: #01244e;
+    font-size: 18px;
+}
+
+.menu-item-name {
+    color: #01244e;
+    font-size:16px;
+    font-weight: 600;
+}
+.description-container {
+    display:block;
+    width: 200px;
+}
+.description {
+    font-size:12px;
+    color:#01244e;
+    font-weight:300;
+    max-width:70%;
+    display: inline-block;
+}
+.price {
+    font-size:12px;
+    color:#01244e;
+    max-width:30%;
+    float: right;
+}
